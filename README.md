@@ -1,6 +1,6 @@
   - new-heap : Heap
-  - insert : A → Heap → Heap
-  - peek-first : Heap → Maybe A
-  - remove-first : Heap → Heap
-  - from-list : List → Heap
-  - to-list : Heap → List
+  - insert : A → Heap $\to$ Heap
+  - peek-first : Heap $\to$ Maybe A
+  - remove-first : Heap $\to$ Heap
+  - from-list : List $\to$ Heap
+  - to-list : Heap $\to$ List
